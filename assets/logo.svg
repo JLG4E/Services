@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+<title id="title">JLG4E Services logo</title>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#63e6e2"/><stop offset="1" stop-color="#82aaff"/>
+  </linearGradient>
+</defs>
+<rect x="4" y="4" width="152" height="152" rx="38" fill="#0b192a" stroke="#29435b" stroke-width="2"/>
+<path d="M43 43h27v16H59v43c0 16-8 25-25 25H23v-17h9c8 0 11-3 11-11V43z" fill="url(#g)"/>
+<path d="M82 43h39v16H99v16h20v16H99v20h23v16H82z" fill="#f4f8ff"/>
+<circle cx="126" cy="34" r="7" fill="#63e6e2"/>
+<path d="M128 51v70" stroke="#63e6e2" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+</svg>
