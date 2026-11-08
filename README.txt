@@ -6,6 +6,9 @@
 - `products/ai-agent-security.html` — AI Agent Control & Security product page
 - `products/digital-workforce.html` — Reliable Digital Workforce product page
 - `products/industrial-operations.html` — Intelligent Industrial Operations product page
+- `products.html`, `about.html`, `contact.html`, `privacy.html`, `404.html` — overview, company, contact, legal and error pages
+- `assets/site.js` — shared menu, form and animation script (set FORM_ENDPOINT here to send form messages without an email app)
+- `assets/og-image.png`, `assets/logo-512.png` — social preview and schema logo
 - `assets/style.css` — shared responsive design system
 - `assets/logo.svg` — original vector logo
 - `robots.txt` and `sitemap.xml` — basic crawl guidance and page discovery
@@ -17,7 +20,7 @@ Open `index.html` in a modern browser. The shared CSS and SVG assets use relativ
 Upload the contents of this folder into your website's publishing root (for example, the GitHub Pages repository root). Ensure `index.html` is in that root and the `assets/` and `products/` folders are uploaded too.
 
 ## Contact form
-The contact form opens the visitor's default email application with a prefilled message to `service@jlg4e.com`. It does not send/store submissions directly. For a true web form, connect a backend or a reputable form service and configure spam protection.
+The contact form opens the visitor's default email application with a prefilled message to `jlg@jlg4e.com`. It does not send/store submissions directly. For a true web form, connect a backend or a reputable form service and configure spam protection.
 
 ## Before launch
 - Verify domain email and phone number.
